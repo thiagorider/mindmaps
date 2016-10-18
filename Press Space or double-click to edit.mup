@@ -1,5 +1,63 @@
 {
   "title": "Gamification",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Construtivismo",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Construcionismo",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "Papert",
+              "id": 6
+            }
+          }
+        },
+        "2": {
+          "title": "Piaget",
+          "id": 7,
+          "ideas": {
+            "2": {
+              "title": "interação muito grande do aprendiz com o objeto de estudo",
+              "id": 10,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "Troca do repasse da informação para a busca da formação do aluno",
+              "id": 11
+            },
+            "4": {
+              "title": "O aprendiz, como ser ativo, na interação com o mundo, é o responsável pela direção e significado do aprendido",
+              "id": 14
+            }
+          }
+        },
+        "3": {
+          "title": "Vygotsky",
+          "id": 8
+        },
+        "4": {
+          "title": "Paulo Freire",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Nova ordem revolucionária que retira o poder e autoridade do mestre transformando-o de todo poderoso detentor do saber para um \"educador-educando\"",
+              "id": 13
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Bahaviorismo",
+      "id": 4
+    }
+  },
+  "links": []
 }
